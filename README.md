@@ -13,5 +13,3 @@ The Skills right now I have are
 3. Repl.it
 4. CHALK CLI
 
-[]: # Language: markdown
-[]: # Path: README.md
